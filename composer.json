@@ -1,13 +1,13 @@
 {
-    "name":         "thrace/form-bundle",
+    "name":         "fertandil87/form-bundle",
     "description":  "This bundle provides extra form types empowered by jQuery",
     "keywords":     ["form", "jqueryui", "jQuery", "Symfony", "tinymce", "inputlimiter", "select2", "recaptcha"],
     "type":         "symfony-bundle",
     "license":      "MIT",
     "authors":      [
         {
-            "name":  "Nikolay Georgiev",
-            "email": "symfonist@gmail.com"
+            "name":  "Fernando Saez",
+            "email": "fertandil87@gmail.com"
         }
     ],
     "extra": {
